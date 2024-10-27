@@ -22,7 +22,7 @@ public class CmarcontaTerminal {
 
        //exibir a mensagem conta criada
         System.out.println("olá, " + nome);
-        System.out.println("sua agência " + agencia + " Conta: " + conta);
+        System.out.println("sua agência: " + agencia + " Conta: " + conta);
         System.out.println("saldo R$: " + saldo);
 
     }
