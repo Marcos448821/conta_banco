@@ -21,9 +21,9 @@ public class CmarcontaTerminal {
        //obter pela Scanner os valores digitado no terminal
 
        //exibir a mensagem conta criada
-        System.out.println("olá, " + nome);
-        System.out.println("sua agência: " + agencia + " Conta: " + conta);
-        System.out.println("saldo R$: " + saldo);
+        System.out.println("olá, " + nome + " obrigada por criar uma conta em nosso banco");
+        System.out.println("sua agência é : " + agencia + " Conta: " + conta);
+        System.out.println("e seu saldo já está disponivel para saque R$: " + saldo);
 
     }
 }
